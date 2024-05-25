@@ -1,30 +1,11 @@
+
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/150997697?v=4" width="100" style="border-radius: 50%;" alt="Profile Picture">
+  <img src="https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" alt="Code Animation"/>
 </p>
 
-
-
-<div align="center" id="badges">
-    <a href="https://t.me/akitiltka">
-        <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCB6RwiDicAAC19xyTImz-Eg">
-        <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://akitiltka.space">
-        <img src="https://img.shields.io/badge/My%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
-    </a>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Elytrya&style=flat-square&color=red" alt=""/>
-</div>
-
-<div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF4bWFueWdkM2s4cDlwMnV6aTRyM2N0ZmQ3eHc1NzJpMXhubGs2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"/>
-</div>
-
-# <div align="center">About Me</div>
+<div align="center"></div>
+<h1>About Me</h1>
 <div align="center">
     I am a WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
     <br> 
@@ -43,6 +24,7 @@
 </div>
 <br>
 <br>
+
 <div align="center" style="margin-top: 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -60,8 +42,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 </div>
-
-# <div align="center">🔥 My Stats</div>
+<div align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF4bWFueWdkM2s4cDlwMnV6aTRyM2N0ZmQ3eHc1NzJpMXhubGs2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300" alt="Programming Animation"/>
+</div>
+<br>
+<div align="center"></div>
+<h1>🔥 My Stats</h1>
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Elytrya&theme=meta-dark&border_radius=20&locale=ru" alt="GitHub Streak Stats"/>
@@ -78,8 +64,10 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Elytrya" alt="GitHub Profile Trophy"/>
     </a>
+</div>
 
-# <div align="center">💼 Connect with Me</div>
+<div align="center"></div>
+<h1>💼 Connect with Me</h1>
 <div align="center">
   My discord: @akirula
   <br>
@@ -91,9 +79,12 @@
         <img src="https://img.shields.io/badge/My%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
     </a>
       <a href="https://spidernodes.space">
-        <img src="https://img.shields.io/badge/SpiderNodes-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+        <img src="https://img.shields.io/badge/SpiderNodes-black?style=for-the-badge&logo=website&logoColor=white" alt="SpiderNodes Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCB6RwiDicAAC19xyTImz-Eg">
         <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+</div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Elytrya&style=flat-square&color=red" alt="Profile Views"/>
 </div>
