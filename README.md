@@ -78,9 +78,6 @@
       <a href="https://akitiltka.space">
         <img src="https://img.shields.io/badge/My%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
     </a>
-      <a href="https://spidernodes.space">
-        <img src="https://img.shields.io/badge/SpiderNodes-black?style=for-the-badge&logo=website&logoColor=white" alt="SpiderNodes Badge"/>
-    </a>
     <a href="https://www.youtube.com/channel/UCB6RwiDicAAC19xyTImz-Eg">
         <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
