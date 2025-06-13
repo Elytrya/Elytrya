@@ -11,15 +11,13 @@
     <br> 
     - :telescope: I work and participate in front-end and back-end development for creating web applications.
     <br>
-    - :seedling: Exploring Technical Content Writing.
-    <br>
     - :zap: In my free time I play different games and have fun.
     <br>
-    - :mailbox: How to reach me: @akirula in Discord.
+    - :mailbox: How to reach me: @elytrya__ in Discord.
     <br>
     - :computer: I enjoy learning new technologies and improving my coding skills.
     <br>
-    - :video_game: Favorite games: Content Warning, Ghost Exile, and many more.
+    - :video_game: Favorite games: Phasmophobia, Ghost Exile, and many more.
     <br>
 </div>
 <br>
