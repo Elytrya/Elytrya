@@ -15,10 +15,6 @@
     <br>
     - :mailbox: How to reach me: @elytrya__ in Discord.
     <br>
-    - :computer: I enjoy learning new technologies and improving my coding skills.
-    <br>
-    - :video_game: Favorite games: Phasmophobia, Ghost Exile, and many more.
-    <br>
 </div>
 <br>
 <br>
@@ -86,4 +82,5 @@
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Elytrya&style=flat-square&color=red" alt="Profile Views"/>
+    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25338">
 </div>
