@@ -67,17 +67,11 @@
 <div align="center"></div>
 <h1>💼 Connect with Me</h1>
 <div align="center">
-  My discord: @akirula
+  My discord: @elytrya__
   <br>
   <br>
-    <a href="https://t.me/akitiltka">
-        <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-      <a href="https://akitiltka.space">
+      <a href="https://elytrya.icu">
         <img src="https://img.shields.io/badge/My%20website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCB6RwiDicAAC19xyTImz-Eg">
-        <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
 </div>
 <div align="center">
