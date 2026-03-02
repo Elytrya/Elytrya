@@ -7,13 +7,13 @@
 <div align="center"></div>
 <h1>About Me</h1>
 <div align="center">
-    I am a WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+    i'm a WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
     <br> 
-    - :telescope: I work and participate in front-end and back-end development for creating web applications.
+    - i work and participate in front-end and back-end development for creating web applications.
     <br>
-    - :zap: In my free time I play different games and have fun.
+    - in my free time I play different games and have fun.
     <br>
-    - :mailbox: How to reach me: @elytrya__ in Discord.
+    - how to reach me: @elytrya__ in discord.
     <br>
 </div>
 <br>
@@ -45,7 +45,7 @@
 </div>
 <br>
 <div align="center"></div>
-<h1>🔥 My Stats</h1>
+<h1>my stats</h1>
 <div align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Elytrya&theme=meta-dark&border_radius=20&locale=ru" alt="GitHub Streak Stats"/>
@@ -65,9 +65,9 @@
 </div>
 
 <div align="center"></div>
-<h1>💼 Connect with Me</h1>
+<h1>connect with Me</h1>
 <div align="center">
-  My discord: @elytrya__
+  my discord: @elytrya__
   <br>
   <br>
       <a href="https://elytrya.icu">
